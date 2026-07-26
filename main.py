@@ -1,3 +1,7 @@
+# vista shahbazi
+# 404130873
+# worldcup 2026 simulator
+
 from simulator import WorldCupSimulator
 def main():
 
